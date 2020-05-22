@@ -1,0 +1,54 @@
+*{margin:0; padding:0; box-sizing: border-box; }
+
+.carousel-inner img {
+    width: 100%;
+    height: 85vh;
+  }
+
+  .aboutimg{
+
+  	width: 100%;
+  	height: 250px!importan;
+
+  }
+
+  .navbar-dark.navbar-nav.active a,.navbar-dark.navbar-nav.active a:hover{
+  	background-color: #3c004e;
+  }
+
+  .navbar-nav li a:hover{
+
+  	background-color:#3c004e ;
+
+  }
+
+  .navbar-dark.navbar-brand{
+  	background-color: red;
+  }
+
+  .inner{
+
+  	overflow: hidden;
+  }
+
+  .inner{
+
+  	transition: all 1.5 ease;
+
+}
+
+.inner:hover img{
+
+	transition:scale(1.5);
+
+}
+
+.top-bar{
+  background-color:blue;
+  padding:-1px;
+}
+
+.foot i{
+
+  margin-left: 20px;
+}
